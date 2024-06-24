@@ -53,7 +53,7 @@ venv.bak/
 *.pdf
 
 # Config files
-config.py
+#config.py
 
 # OS generated files
 .DS_Store
